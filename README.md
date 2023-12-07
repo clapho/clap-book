@@ -1,3 +1,3 @@
 # README
 
-## clapho GitBook
+## GitBook 가이드
