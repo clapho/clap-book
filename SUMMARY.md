@@ -2,7 +2,7 @@
 
 - [메가테라 백엔드 생존코스](README.md)
 
-* [1주차](week1/README.md)
+- [1주차](week1/README.md)
 
   - [1. HTTP의 이해](week1/http.md)
   - [2. HTTP Client](week1/http-client.md)
