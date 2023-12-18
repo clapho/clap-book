@@ -9,3 +9,10 @@
   - [3. HTTP Server](week1/http-server.md)
   - [4. Java HTTP Server](week1/java-http-server.md)
   - [5. Spring Web MVC](week1/spring-web-mvc.md)
+
+- [2주차](week2/README.md)
+
+  - [1. REST API](week2/rest-api.md)
+  - [2. URI & MIME type](week2/uri-mymetype.md)
+  - [3. Collection Pattern](week2/collection-pattern.md)
+  
