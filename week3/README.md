@@ -6,8 +6,7 @@
 
 ## 목차
 
-- REST API
-- URI & MIME type
-- Collection Pattern
-- Collection Pattern 적용
-- Spring Web MVC로 구현
+- DTO
+- 직렬화
+- Jackson ObjectMapper
+- CORS

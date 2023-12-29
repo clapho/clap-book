@@ -16,3 +16,10 @@
   - [2. URI & MIME type](week2/uri-mymetype.md)
   - [3. Collection Pattern](week2/collection-pattern.md)
   
+- [3주차](week3/README.md)
+
+  - [1. DTO](week3/dto.md)
+  - [2. Serialization](week3/serialization.md)
+  - [3. Jackson ObjectMapper](week3/jackson.md)
+  - [4. CORS](week3/cors.md)
+  
