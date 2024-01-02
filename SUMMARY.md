@@ -22,4 +22,10 @@
   - [2. Serialization](week3/serialization.md)
   - [3. Jackson ObjectMapper](week3/jackson.md)
   - [4. CORS](week3/cors.md)
+
+- [4주차](week4/README.md)
+
+  - [1. Layerd Architecture](week4/layered-architecture.md)
+  - [2. Data Access](week4/data-access.md)
+  - [3. Domain Model](week4/domain-model.md)
   
