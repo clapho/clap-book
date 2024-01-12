@@ -11,7 +11,7 @@
 
 ### TDD Cycle
 
-<img src="./images/tdd-cycle.png" height="260px" width="500px">
+<img src="./images/tdd-cycle.png">
 
 &nbsp;
 
